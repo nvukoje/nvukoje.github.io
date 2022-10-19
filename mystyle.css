@@ -1,0 +1,73 @@
+body {
+  background-color: darkorange;
+}
+div.photo1 {
+  border-style: solid;
+  border-color: darkblue;
+  float: right;
+  background-color: lightblue;
+}
+div.desc1 {
+  padding: 15px;
+  text-align: center;
+  color: darkblue;
+  font-size: 25px;
+  font-family: arial;
+}
+div.photo2 {
+  border-style: solid;
+  border-color: darkblue;
+  float: left;
+  background-color: lightblue;
+}
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: arial;
+  font-size: 40px;
+}
+h2 {
+  color: navy;
+  text-align: left;
+  font-family: helvetica;
+  font-size: 35px; 
+}
+h3 {
+  color: navy;
+  text-align: left;
+  font-family: verdana;
+  font-size: 30px;
+}
+a {
+  color: navyblue;
+  background-color: lightblue;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: underline;
+}
+.a {
+  text-indent: 10px;
+  font-family: verdana;
+  font-size: 20px;
+  color:mediumblue;
+}
+.para1 {
+  text-indent: 5px;
+  text-align: left;
+  font-size: 25px;
+  color: mediumblue;
+}
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid blue;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+tr:nth-child(even) {
+  background-color: lightblue;
+}
