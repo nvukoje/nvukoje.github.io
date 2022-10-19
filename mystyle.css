@@ -38,6 +38,12 @@ h3 {
   font-family: verdana;
   font-size: 30px;
 }
+#para  {
+	color: navy;
+  text-align: left;
+  font-family: verdana;
+  font-size: 30px;
+}
 a {
   color: navyblue;
   background-color: lightblue;
